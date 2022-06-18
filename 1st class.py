@@ -1,0 +1,7 @@
+name= input("Enter your name : ")
+place = input('Where are you from? :')
+age= input('Enter your Age :')
+Uv =input('Which university do you read in? ')
+Dept = input('Enter your Det. Name: ')
+hobby = input('Enter a hobby from your list: ')
+print('I am',name,' I am from ',place, '. I am', age, ' Years odl only. Recently i am graduated from',Uv,' in Dept. of', Dept, '. Ilove to ',hobby)
